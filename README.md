@@ -15,4 +15,9 @@ Héctor Reyes Medina
 Daniel Sanchez
 Adrián Tortosa Soriano
 Adrian Triviño
+<<<<<<< HEAD
 Alejandro Rauseo
+=======
+Islam
+Leonardo Batiste Carbonell
+>>>>>>> d95acbdd2d7501d4a91be056da25969a2ed1b914
