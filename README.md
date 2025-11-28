@@ -3,3 +3,14 @@ Práctica 9 de DAM. A partir de esta línea añade tu nombre, respetando los nom
 Alex Pascual Perez
 Héctor Ordín Lencina
 Adrian Triviño
+Adrian Rodriguez Machado
+Joaquin Gay
+Alain Bartolome
+Alex
+Hector
+Aidan
+Alejandro
+Javier
+Rodrigo
+Héctor Reyes Medina
+
