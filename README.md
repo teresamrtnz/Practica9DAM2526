@@ -16,3 +16,6 @@ Daniel Sanchez
 Adrián Tortosa Soriano
 Adrian Triviño
 
+20adrian.r02@gmail.com
+Real MadridAlain Bartolome
+KangCan Chen
