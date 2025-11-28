@@ -1,3 +1,7 @@
 # Practica9DAM2526
 Práctica 9 de DAM. A partir de esta línea añade tu nombre, respetando los nombres de los compañeros que ya estén incluidos
+<<<<<<< HEAD
 Héctor Ordín Lencina
+=======
+Ami Gumaneh Gumaneh
+>>>>>>> amiGumaneh
