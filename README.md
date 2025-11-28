@@ -16,3 +16,4 @@ Daniel Sanchez
 Adrián Tortosa Soriano
 Adrian Triviño
 Islam
+Leonardo Batiste Carbonell
