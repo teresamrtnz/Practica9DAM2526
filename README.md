@@ -25,4 +25,7 @@ Islam
 Leonardo Batiste Carbonell
 Beatriz
 Ami Gumaneh Gumaneh
+<<<<<<< HEAD
 Jordy Montealegre Mogro
+=======
+>>>>>>> ccb638cadbac8edc72e72f87ee991248a62096f9
